@@ -1,1 +1,3 @@
-# intro-spring-boot-web
+# Spotmusic
+
+Crie playlists e avalie músicas
